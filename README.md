@@ -2,7 +2,7 @@
 
 Sections on a page transition in from alternating sides when scrolling down. The opposite happens when scrolling up the page.
 
-I used the logo, modeling photos, and text from my old handmade flower accessories show on Etsy.
+I used the logo, modeling photos, and text from my old handmade flower accessories shop on Etsy.
 
 ## Objective
 * Use CSS transitions to have the sections smoothly ease in.
